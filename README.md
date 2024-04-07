@@ -8,13 +8,13 @@
 
 - **Transfer Function Display:** The app displays the user-defined transfer function in a clear and formatted manner.
   
-- **Bode Plot:** <div align="justify">It generates a Bode plot, a graphical representation of the transfer function's magnitude and phase response over a range of frequencies. This allows users to understand the system's frequency response characteristics.</div>
+- **Bode Plot:** <div align="justify"> It generates a Bode plot, a graphical representation of the transfer function's magnitude and phase response over a range of frequencies. This allows users to understand the system's frequency response characteristics.</div>
   
-- **Step Response:** <div align="justify">The app can generate a step response plot, visualizing the system's output behavior when subjected to a sudden step input.
+- **Step Response:** <div align="justify"> The app can generate a step response plot, visualizing the system's output behavior when subjected to a sudden step input.
   
 - **Pole-Zero Diagram:** The app displays the pole-zero diagram of the transfer function. This graphical representation provides insights into the system's stability and dynamic characteristics.</div>
   
-- **Interactive Control:** <div align="justify">A slider within the app allows users to modify the values of key parameters like natural frequency (wn), decay constant (ζ), and gain (K). This enables real-time exploration of how these parameters influence the system's response as reflected in the Bode plot, step response, and pole-zero diagram.</div>
+- **Interactive Control:** <div align="justify"> A slider within the app allows users to modify the values of key parameters like natural frequency (wn), decay constant (ζ), and gain (K). This enables real-time exploration of how these parameters influence the system's response as reflected in the Bode plot, step response, and pole-zero diagram.</div>
   
 ## What is it used for 
 
