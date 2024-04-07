@@ -4,7 +4,7 @@
 
 <div align="justify"> This MATLAB app provides an interactive way to analyze transfer functions, offering features to display Bode plots, step responses, and pole-zero diagrams.  A slider allows users to dynamically modify key system parameters such as natural frequency (wn), decay constant (ζ), and gain (K). This enables real-time exploration of how adjustments to these parameters affect the system's frequency response, time-domain behavior, and stability characteristics. The app serves as a valuable tool for control system engineers and students to gain insights into the relationship between transfer function parameters and overall system behavior. </div>
 
-## Key Features To be Updated
+## Key Features 
 
 - **Transfer Function Display:** The app displays the user-defined transfer function in a clear and formatted manner.
   
