@@ -23,4 +23,4 @@
 ## Team Members
 1. **_Arjun Sekar_**
 2. **_Sriram Srinivasan_**
-3. **_RaghavPravin KS_**
+3. **_Raghavpravin KS_**
