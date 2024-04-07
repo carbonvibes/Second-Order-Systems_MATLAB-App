@@ -20,7 +20,11 @@
 
 <div align="justify"> Essentially, this app serves as an interactive tool for control system engineers and students to gain a deeper understanding of how transfer function parameters affect a system's response. By visualizing the Bode plot, step response, and pole-zero diagram, users can make informed decisions about system design and optimization. </div>
 
+## Pictures
+![Alt Text](https://github.com/carbonvibes/Second-Order-Systems_MATLAB-App/blob/main/Resources/IMG.png)
+
 ## Team Members
 1. **_Arjun Sekar_**
 2. **_Sriram Srinivasan_**
 3. **_Raghavpravin KS_**
+
